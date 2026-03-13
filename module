@@ -13,6 +13,7 @@
       - Copyright (c) 2010-現在 James Hall 他
       - 全文: https://github.com/parallax/jsPDF/blob/master/LICENSE
     ────────────────────────────────────────
+  -->
 
   <style>
     body { font-family: sans-serif; padding: 20px; }
