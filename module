@@ -5,7 +5,6 @@
   <title>画像をPDF化（書籍ページ用）</title>
   <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
 
-
   <!-- 
     使用ライブラリとライセンス情報
     ────────────────────────────────────────
@@ -13,7 +12,6 @@
       - License: MIT
       - Copyright (c) 2010-現在 James Hall 他
       - 全文: https://github.com/parallax/jsPDF/blob/master/LICENSE
-      - または下記に全文コピー（省略形でも可）
     ────────────────────────────────────────
 
   <style>
